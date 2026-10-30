@@ -1,0 +1,6 @@
+{
+  "name": "KotobaMorph - Dekonstruksi & Analisis Teks Jepang",
+  "description": "Alat penerjemah dan pembedah teks bahasa Jepang mendalam: analisis kata individu, relasi gramatikal partikel, alternatif sinonim, contoh kalimat, dan buku kosakata pribadi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
